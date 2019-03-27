@@ -1,4 +1,4 @@
-loadlive2d("live2d", "../model/wanko.model.json");
+loadlive2d("live2d", "/Taiwan/model/wanko.model.json");
 function showMessage(a,b){
     if(b==null) b = 10000;
     jQuery(".l2d-text").hide().stop();
