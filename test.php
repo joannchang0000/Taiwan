@@ -122,4 +122,4 @@ switch ($total) {
         // break;
 
 }
-echo $vip;
+// echo $vip;
